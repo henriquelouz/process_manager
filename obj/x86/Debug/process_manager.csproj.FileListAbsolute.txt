@@ -1,0 +1,6 @@
+/home/henriquelouz/Projects/process_manager/bin/Debug/process_manager.exe
+/home/henriquelouz/Projects/process_manager/bin/Debug/process_manager.pdb
+/home/henriquelouz/Projects/process_manager/obj/x86/Debug/process_manager.csprojAssemblyReference.cache
+/home/henriquelouz/Projects/process_manager/obj/x86/Debug/process_manager.csproj.CoreCompileInputs.cache
+/home/henriquelouz/Projects/process_manager/obj/x86/Debug/process_manager.exe
+/home/henriquelouz/Projects/process_manager/obj/x86/Debug/process_manager.pdb
