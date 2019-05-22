@@ -17,4 +17,8 @@ O gerenciamento de memória foi implementado com swap se ela estiver cheia na ho
 - Linguagem: C#
 - Interface: GTK#
 
-[Download .exe](https://drive.google.com/file/d/10U59FBbDmKWDlMLwXK-BbYZXGvCwW3xe/view?usp=sharing)
+### Para testar
+- Instale o .NET Core SDK: https://dotnet.microsoft.com/download
+- Instale o Mono: https://www.mono-project.com/download/stable/
+- Instale a IDE: https://www.monodevelop.com/download/
+- [Download .exe](https://drive.google.com/file/d/10U59FBbDmKWDlMLwXK-BbYZXGvCwW3xe/view?usp=sharing)
